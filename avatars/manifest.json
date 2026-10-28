@@ -1,0 +1,1686 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-28T00:00:00Z",
+  "avatars": [
+    {
+      "id": "v2-naruto",
+      "name": "Naruto Uzumaki",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-naruto.webp"
+    },
+    {
+      "id": "v2-sasuke",
+      "name": "Sasuke Uchiha",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-sasuke.webp"
+    },
+    {
+      "id": "v2-kakashi",
+      "name": "Kakashi Hatake",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-kakashi.webp"
+    },
+    {
+      "id": "v2-gojo",
+      "name": "Satoru Gojo",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-gojo.webp"
+    },
+    {
+      "id": "v2-yuji",
+      "name": "Yuji Itadori",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-yuji.webp"
+    },
+    {
+      "id": "v2-megumi",
+      "name": "Megumi Fushiguro",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-megumi.webp"
+    },
+    {
+      "id": "v2-eren",
+      "name": "Eren Yeager",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-eren.webp"
+    },
+    {
+      "id": "v2-mikasa",
+      "name": "Mikasa Ackerman",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-mikasa.webp"
+    },
+    {
+      "id": "v2-levi",
+      "name": "Levi Ackerman",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-levi.webp"
+    },
+    {
+      "id": "v2-ichigo",
+      "name": "Ichigo Kurosaki",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-ichigo.webp"
+    },
+    {
+      "id": "v2-rukia",
+      "name": "Rukia Kuchiki",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-rukia.webp"
+    },
+    {
+      "id": "v2-orihime",
+      "name": "Orihime Inoue",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-orihime.webp"
+    },
+    {
+      "id": "v2-edward",
+      "name": "Edward Elric",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-edward.webp"
+    },
+    {
+      "id": "v2-alphonse",
+      "name": "Alphonse Elric",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-alphonse.webp"
+    },
+    {
+      "id": "v2-roy",
+      "name": "Roy Mustang",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-roy.webp"
+    },
+    {
+      "id": "v2-izuku",
+      "name": "Izuku Midoriya",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-izuku.webp"
+    },
+    {
+      "id": "v2-bakugo",
+      "name": "Katsuki Bakugo",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-bakugo.webp"
+    },
+    {
+      "id": "v2-shoto",
+      "name": "Shoto Todoroki",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-shoto.webp"
+    },
+    {
+      "id": "v2-kaneki",
+      "name": "Ken Kaneki",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-kaneki.webp"
+    },
+    {
+      "id": "v2-touka",
+      "name": "Touka Kirishima",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-touka.webp"
+    },
+    {
+      "id": "v2-juuzou",
+      "name": "Juuzou Suzuya",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-juuzou.webp"
+    },
+    {
+      "id": "v2-thorfinn",
+      "name": "Thorfinn",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-thorfinn.webp"
+    },
+    {
+      "id": "v2-askeladd",
+      "name": "Askeladd",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-askeladd.webp"
+    },
+    {
+      "id": "v2-canute",
+      "name": "Canute",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-canute.webp"
+    },
+    {
+      "id": "v2-guts",
+      "name": "Guts",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-guts.webp"
+    },
+    {
+      "id": "v2-casca",
+      "name": "Casca",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-casca.webp"
+    },
+    {
+      "id": "v2-griffith",
+      "name": "Griffith",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-griffith.webp"
+    },
+    {
+      "id": "v2-tanjiro",
+      "name": "Tanjiro Kamado",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-tanjiro.webp"
+    },
+    {
+      "id": "v2-nezuko",
+      "name": "Nezuko Kamado",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-nezuko.webp"
+    },
+    {
+      "id": "v2-inosuke",
+      "name": "Inosuke Hashibira",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-inosuke.webp"
+    },
+    {
+      "id": "v2-goku",
+      "name": "Goku",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-goku.webp"
+    },
+    {
+      "id": "v2-vegeta",
+      "name": "Vegeta",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-vegeta.webp"
+    },
+    {
+      "id": "v2-piccolo",
+      "name": "Piccolo",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-piccolo.webp"
+    },
+    {
+      "id": "v2-gon",
+      "name": "Gon Freecss",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-gon.webp"
+    },
+    {
+      "id": "v2-killua",
+      "name": "Killua Zoldyck",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-killua.webp"
+    },
+    {
+      "id": "v2-kurapika",
+      "name": "Kurapika",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-kurapika.webp"
+    },
+    {
+      "id": "v2-hinata",
+      "name": "Shoyo Hinata",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-hinata.webp"
+    },
+    {
+      "id": "v2-kageyama",
+      "name": "Tobio Kageyama",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-kageyama.webp"
+    },
+    {
+      "id": "v2-nishinoya",
+      "name": "Yu Nishinoya",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-nishinoya.webp"
+    },
+    {
+      "id": "v2-denji",
+      "name": "Denji",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-denji.webp"
+    },
+    {
+      "id": "v2-power",
+      "name": "Power",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-power.webp"
+    },
+    {
+      "id": "v2-makima",
+      "name": "Makima",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-makima.webp"
+    },
+    {
+      "id": "v2-luffy",
+      "name": "Monkey D. Luffy",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-luffy.webp"
+    },
+    {
+      "id": "v2-nami",
+      "name": "Nami",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-nami.webp"
+    },
+    {
+      "id": "v2-sanji",
+      "name": "Sanji",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-sanji.webp"
+    },
+    {
+      "id": "v2-anya",
+      "name": "Anya Forger",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-anya.webp"
+    },
+    {
+      "id": "v2-loid",
+      "name": "Loid Forger",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-loid.webp"
+    },
+    {
+      "id": "v2-yor",
+      "name": "Yor Forger",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-yor.webp"
+    },
+    {
+      "id": "v2-frieren",
+      "name": "Frieren",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-frieren.webp"
+    },
+    {
+      "id": "v2-fern",
+      "name": "Fern",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-fern.webp"
+    },
+    {
+      "id": "v2-stark",
+      "name": "Stark",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-stark.webp"
+    },
+    {
+      "id": "v2-jinwoo",
+      "name": "Sung Jinwoo",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-jinwoo.webp"
+    },
+    {
+      "id": "v2-haein",
+      "name": "Cha Haein",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-haein.webp"
+    },
+    {
+      "id": "v2-jinho",
+      "name": "Yoo Jinho",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-jinho.webp"
+    },
+    {
+      "id": "v2-asta",
+      "name": "Asta",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-asta.webp"
+    },
+    {
+      "id": "v2-yuno",
+      "name": "Yuno",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-yuno.webp"
+    },
+    {
+      "id": "v2-noelle",
+      "name": "Noelle Silva",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-noelle.webp"
+    },
+    {
+      "id": "v2-isagi",
+      "name": "Yoichi Isagi",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-isagi.webp"
+    },
+    {
+      "id": "v2-bachira",
+      "name": "Meguru Bachira",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-bachira.webp"
+    },
+    {
+      "id": "v2-rin",
+      "name": "Rin Itoshi",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-rin.webp"
+    },
+    {
+      "id": "v2-lelouch",
+      "name": "Lelouch Lamperouge",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-lelouch.webp"
+    },
+    {
+      "id": "v2-cc",
+      "name": "C.C.",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-cc.webp"
+    },
+    {
+      "id": "v2-suzaku",
+      "name": "Suzaku Kururugi",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-suzaku.webp"
+    },
+    {
+      "id": "v2-senku",
+      "name": "Senku Ishigami",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-senku.webp"
+    },
+    {
+      "id": "v2-kohaku",
+      "name": "Kohaku",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-kohaku.webp"
+    },
+    {
+      "id": "v2-gen",
+      "name": "Gen Asagiri",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-gen.webp"
+    },
+    {
+      "id": "v2-mob",
+      "name": "Shigeo Kageyama",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-mob.webp"
+    },
+    {
+      "id": "v2-reigen",
+      "name": "Arataka Reigen",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-reigen.webp"
+    },
+    {
+      "id": "v2-ritsu",
+      "name": "Ritsu Kageyama",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-ritsu.webp"
+    },
+    {
+      "id": "v2-yato",
+      "name": "Yato",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-yato.webp"
+    },
+    {
+      "id": "v2-hiyori",
+      "name": "Hiyori Iki",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-hiyori.webp"
+    },
+    {
+      "id": "v2-yukine",
+      "name": "Yukine",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v2-yukine.webp"
+    },
+    {
+      "id": "v3-naruto-sakura-haruno",
+      "name": "Sakura Haruno",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-sakura-haruno.webp"
+    },
+    {
+      "id": "v3-naruto-hinata-hyuga",
+      "name": "Hinata Hyuga",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-hinata-hyuga.webp"
+    },
+    {
+      "id": "v3-naruto-itachi-uchiha",
+      "name": "Itachi Uchiha",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-itachi-uchiha.webp"
+    },
+    {
+      "id": "v3-naruto-gaara",
+      "name": "Gaara",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-gaara.webp"
+    },
+    {
+      "id": "v3-naruto-shikamaru-nara",
+      "name": "Shikamaru Nara",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-shikamaru-nara.webp"
+    },
+    {
+      "id": "v3-naruto-rock-lee",
+      "name": "Rock Lee",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-rock-lee.webp"
+    },
+    {
+      "id": "v3-naruto-tsunade",
+      "name": "Tsunade",
+      "group": "Naruto",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-naruto-tsunade.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-nobara-kugisaki",
+      "name": "Nobara Kugisaki",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-nobara-kugisaki.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-maki-zenin",
+      "name": "Maki Zenin",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-maki-zenin.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-toge-inumaki",
+      "name": "Toge Inumaki",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-toge-inumaki.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-panda",
+      "name": "Panda",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-panda.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-yuta-okkotsu",
+      "name": "Yuta Okkotsu",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-yuta-okkotsu.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-kento-nanami",
+      "name": "Kento Nanami",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-kento-nanami.webp"
+    },
+    {
+      "id": "v3-jujutsukaisen-ryomen-sukuna",
+      "name": "Ryomen Sukuna",
+      "group": "JujutsuKaisen",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-jujutsukaisen-ryomen-sukuna.webp"
+    },
+    {
+      "id": "v3-attackontitan-armin-arlert",
+      "name": "Armin Arlert",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-armin-arlert.webp"
+    },
+    {
+      "id": "v3-attackontitan-erwin-smith",
+      "name": "Erwin Smith",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-erwin-smith.webp"
+    },
+    {
+      "id": "v3-attackontitan-hange-zoe",
+      "name": "Hange Zoe",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-hange-zoe.webp"
+    },
+    {
+      "id": "v3-attackontitan-jean-kirstein",
+      "name": "Jean Kirstein",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-jean-kirstein.webp"
+    },
+    {
+      "id": "v3-attackontitan-sasha-braus",
+      "name": "Sasha Braus",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-sasha-braus.webp"
+    },
+    {
+      "id": "v3-attackontitan-reiner-braun",
+      "name": "Reiner Braun",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-reiner-braun.webp"
+    },
+    {
+      "id": "v3-attackontitan-annie-leonhart",
+      "name": "Annie Leonhart",
+      "group": "AttackOnTitan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-attackontitan-annie-leonhart.webp"
+    },
+    {
+      "id": "v3-bleach-uryu-ishida",
+      "name": "Uryu Ishida",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-uryu-ishida.webp"
+    },
+    {
+      "id": "v3-bleach-yasutora-chad-sado",
+      "name": "Yasutora Chad Sado",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-yasutora-chad-sado.webp"
+    },
+    {
+      "id": "v3-bleach-renji-abarai",
+      "name": "Renji Abarai",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-renji-abarai.webp"
+    },
+    {
+      "id": "v3-bleach-byakuya-kuchiki",
+      "name": "Byakuya Kuchiki",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-byakuya-kuchiki.webp"
+    },
+    {
+      "id": "v3-bleach-toshiro-hitsugaya",
+      "name": "Toshiro Hitsugaya",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-toshiro-hitsugaya.webp"
+    },
+    {
+      "id": "v3-bleach-rangiku-matsumoto",
+      "name": "Rangiku Matsumoto",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-rangiku-matsumoto.webp"
+    },
+    {
+      "id": "v3-bleach-kisuke-urahara",
+      "name": "Kisuke Urahara",
+      "group": "Bleach",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-bleach-kisuke-urahara.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-winry-rockbell",
+      "name": "Winry Rockbell",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-winry-rockbell.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-riza-hawkeye",
+      "name": "Riza Hawkeye",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-riza-hawkeye.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-alex-louis-armstrong",
+      "name": "Alex Louis Armstrong",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-alex-louis-armstrong.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-maes-hughes",
+      "name": "Maes Hughes",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-maes-hughes.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-scar",
+      "name": "Scar",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-scar.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-ling-yao",
+      "name": "Ling Yao",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-ling-yao.webp"
+    },
+    {
+      "id": "v3-fullmetal-alchemist-olivier-mira-armstrong",
+      "name": "Olivier Mira Armstrong",
+      "group": "Fullmetal Alchemist",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-fullmetal-alchemist-olivier-mira-armstrong.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-ochaco-uraraka",
+      "name": "Ochaco Uraraka",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-ochaco-uraraka.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-tenya-iida",
+      "name": "Tenya Iida",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-tenya-iida.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-tsuyu-asui",
+      "name": "Tsuyu Asui",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-tsuyu-asui.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-eijiro-kirishima",
+      "name": "Eijiro Kirishima",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-eijiro-kirishima.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-momo-yaoyorozu",
+      "name": "Momo Yaoyorozu",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-momo-yaoyorozu.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-all-might",
+      "name": "All Might",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-all-might.webp"
+    },
+    {
+      "id": "v3-my-hero-academia-shota-aizawa",
+      "name": "Shota Aizawa",
+      "group": "My Hero Academia",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-my-hero-academia-shota-aizawa.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-hideyoshi-nagachika",
+      "name": "Hideyoshi Nagachika",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-hideyoshi-nagachika.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-hinami-fueguchi",
+      "name": "Hinami Fueguchi",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-hinami-fueguchi.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-koutarou-amon",
+      "name": "Koutarou Amon",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-koutarou-amon.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-akira-mado",
+      "name": "Akira Mado",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-akira-mado.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-ayato-kirishima",
+      "name": "Ayato Kirishima",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-ayato-kirishima.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-uta",
+      "name": "Uta",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-uta.webp"
+    },
+    {
+      "id": "v3-tokyo-ghoul-yoshimura",
+      "name": "Yoshimura",
+      "group": "Tokyo Ghoul",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-tokyo-ghoul-yoshimura.webp"
+    },
+    {
+      "id": "v3-vinland-saga-thors-snorresson",
+      "name": "Thors Snorresson",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-thors-snorresson.webp"
+    },
+    {
+      "id": "v3-vinland-saga-thorkell",
+      "name": "Thorkell",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-thorkell.webp"
+    },
+    {
+      "id": "v3-vinland-saga-einar",
+      "name": "Einar",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-einar.webp"
+    },
+    {
+      "id": "v3-vinland-saga-gudrid",
+      "name": "Gudrid",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-gudrid.webp"
+    },
+    {
+      "id": "v3-vinland-saga-hild",
+      "name": "Hild",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-hild.webp"
+    },
+    {
+      "id": "v3-vinland-saga-leif-erikson",
+      "name": "Leif Erikson",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-leif-erikson.webp"
+    },
+    {
+      "id": "v3-vinland-saga-arnheid",
+      "name": "Arnheid",
+      "group": "Vinland Saga",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-vinland-saga-arnheid.webp"
+    },
+    {
+      "id": "v3-berserk-puck",
+      "name": "Puck",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-puck.webp"
+    },
+    {
+      "id": "v3-berserk-schierke",
+      "name": "Schierke",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-schierke.webp"
+    },
+    {
+      "id": "v3-berserk-farnese",
+      "name": "Farnese",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-farnese.webp"
+    },
+    {
+      "id": "v3-berserk-serpico",
+      "name": "Serpico",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-serpico.webp"
+    },
+    {
+      "id": "v3-berserk-isidro",
+      "name": "Isidro",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-isidro.webp"
+    },
+    {
+      "id": "v3-berserk-judeau",
+      "name": "Judeau",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-judeau.webp"
+    },
+    {
+      "id": "v3-berserk-skull-knight",
+      "name": "Skull Knight",
+      "group": "Berserk",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-berserk-skull-knight.webp"
+    },
+    {
+      "id": "v3-demonslayer-zenitsu-agatsuma",
+      "name": "Zenitsu Agatsuma",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-zenitsu-agatsuma.webp"
+    },
+    {
+      "id": "v3-demonslayer-kanao-tsuyuri",
+      "name": "Kanao Tsuyuri",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-kanao-tsuyuri.webp"
+    },
+    {
+      "id": "v3-demonslayer-giyu-tomioka",
+      "name": "Giyu Tomioka",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-giyu-tomioka.webp"
+    },
+    {
+      "id": "v3-demonslayer-shinobu-kocho",
+      "name": "Shinobu Kocho",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-shinobu-kocho.webp"
+    },
+    {
+      "id": "v3-demonslayer-kyojuro-rengoku",
+      "name": "Kyojuro Rengoku",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-kyojuro-rengoku.webp"
+    },
+    {
+      "id": "v3-demonslayer-tengen-uzui",
+      "name": "Tengen Uzui",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-tengen-uzui.webp"
+    },
+    {
+      "id": "v3-demonslayer-mitsuri-kanroji",
+      "name": "Mitsuri Kanroji",
+      "group": "DemonSlayer",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-demonslayer-mitsuri-kanroji.webp"
+    },
+    {
+      "id": "v3-dragonball-gohan",
+      "name": "Gohan",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-gohan.webp"
+    },
+    {
+      "id": "v3-dragonball-krillin",
+      "name": "Krillin",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-krillin.webp"
+    },
+    {
+      "id": "v3-dragonball-bulma",
+      "name": "Bulma",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-bulma.webp"
+    },
+    {
+      "id": "v3-dragonball-trunks",
+      "name": "Trunks",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-trunks.webp"
+    },
+    {
+      "id": "v3-dragonball-android-18",
+      "name": "Android 18",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-android-18.webp"
+    },
+    {
+      "id": "v3-dragonball-master-roshi",
+      "name": "Master Roshi",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-master-roshi.webp"
+    },
+    {
+      "id": "v3-dragonball-frieza",
+      "name": "Frieza",
+      "group": "DragonBall",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dragonball-frieza.webp"
+    },
+    {
+      "id": "v3-hxh-leorio-paradinight",
+      "name": "Leorio Paradinight",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-leorio-paradinight.webp"
+    },
+    {
+      "id": "v3-hxh-hisoka-morow",
+      "name": "Hisoka Morow",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-hisoka-morow.webp"
+    },
+    {
+      "id": "v3-hxh-chrollo-lucilfer",
+      "name": "Chrollo Lucilfer",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-chrollo-lucilfer.webp"
+    },
+    {
+      "id": "v3-hxh-illumi-zoldyck",
+      "name": "Illumi Zoldyck",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-illumi-zoldyck.webp"
+    },
+    {
+      "id": "v3-hxh-biscuit-krueger",
+      "name": "Biscuit Krueger",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-biscuit-krueger.webp"
+    },
+    {
+      "id": "v3-hxh-isaac-netero",
+      "name": "Isaac Netero",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-isaac-netero.webp"
+    },
+    {
+      "id": "v3-hxh-meruem",
+      "name": "Meruem",
+      "group": "HXH",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-hxh-meruem.webp"
+    },
+    {
+      "id": "v3-haikyu-kei-tsukishima",
+      "name": "Kei Tsukishima",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-kei-tsukishima.webp"
+    },
+    {
+      "id": "v3-haikyu-tadashi-yamaguchi",
+      "name": "Tadashi Yamaguchi",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-tadashi-yamaguchi.webp"
+    },
+    {
+      "id": "v3-haikyu-daichi-sawamura",
+      "name": "Daichi Sawamura",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-daichi-sawamura.webp"
+    },
+    {
+      "id": "v3-haikyu-koshi-sugawara",
+      "name": "Koshi Sugawara",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-koshi-sugawara.webp"
+    },
+    {
+      "id": "v3-haikyu-asahi-azumane",
+      "name": "Asahi Azumane",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-asahi-azumane.webp"
+    },
+    {
+      "id": "v3-haikyu-ryunosuke-tanaka",
+      "name": "Ryunosuke Tanaka",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-ryunosuke-tanaka.webp"
+    },
+    {
+      "id": "v3-haikyu-toru-oikawa",
+      "name": "Toru Oikawa",
+      "group": "Haikyu",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-haikyu-toru-oikawa.webp"
+    },
+    {
+      "id": "v3-chainsaw-aki-hayakawa",
+      "name": "Aki Hayakawa",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-aki-hayakawa.webp"
+    },
+    {
+      "id": "v3-chainsaw-kobeni-higashiyama",
+      "name": "Kobeni Higashiyama",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-kobeni-higashiyama.webp"
+    },
+    {
+      "id": "v3-chainsaw-himeno",
+      "name": "Himeno",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-himeno.webp"
+    },
+    {
+      "id": "v3-chainsaw-kishibe",
+      "name": "Kishibe",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-kishibe.webp"
+    },
+    {
+      "id": "v3-chainsaw-angel-devil",
+      "name": "Angel Devil",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-angel-devil.webp"
+    },
+    {
+      "id": "v3-chainsaw-reze",
+      "name": "Reze",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-reze.webp"
+    },
+    {
+      "id": "v3-chainsaw-pochita",
+      "name": "Pochita",
+      "group": "ChainSaw",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-chainsaw-pochita.webp"
+    },
+    {
+      "id": "v3-onepiece-roronoa-zoro",
+      "name": "Roronoa Zoro",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-roronoa-zoro.webp"
+    },
+    {
+      "id": "v3-onepiece-nico-robin",
+      "name": "Nico Robin",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-nico-robin.webp"
+    },
+    {
+      "id": "v3-onepiece-tony-tony-chopper",
+      "name": "Tony Tony Chopper",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-tony-tony-chopper.webp"
+    },
+    {
+      "id": "v3-onepiece-usopp",
+      "name": "Usopp",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-usopp.webp"
+    },
+    {
+      "id": "v3-onepiece-franky",
+      "name": "Franky",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-franky.webp"
+    },
+    {
+      "id": "v3-onepiece-brook",
+      "name": "Brook",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-brook.webp"
+    },
+    {
+      "id": "v3-onepiece-jinbe",
+      "name": "Jinbe",
+      "group": "OnePiece",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepiece-jinbe.webp"
+    },
+    {
+      "id": "v3-spyfamily-bond-forger",
+      "name": "Bond Forger",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-bond-forger.webp"
+    },
+    {
+      "id": "v3-spyfamily-yuri-briar",
+      "name": "Yuri Briar",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-yuri-briar.webp"
+    },
+    {
+      "id": "v3-spyfamily-fiona-frost",
+      "name": "Fiona Frost",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-fiona-frost.webp"
+    },
+    {
+      "id": "v3-spyfamily-franky-franklin",
+      "name": "Franky Franklin",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-franky-franklin.webp"
+    },
+    {
+      "id": "v3-spyfamily-damian-desmond",
+      "name": "Damian Desmond",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-damian-desmond.webp"
+    },
+    {
+      "id": "v3-spyfamily-becky-blackbell",
+      "name": "Becky Blackbell",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-becky-blackbell.webp"
+    },
+    {
+      "id": "v3-spyfamily-henry-henderson",
+      "name": "Henry Henderson",
+      "group": "SpyFamily",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-spyfamily-henry-henderson.webp"
+    },
+    {
+      "id": "v3-frieren-himmel",
+      "name": "Himmel",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-himmel.webp"
+    },
+    {
+      "id": "v3-frieren-heiter",
+      "name": "Heiter",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-heiter.webp"
+    },
+    {
+      "id": "v3-frieren-eisen",
+      "name": "Eisen",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-eisen.webp"
+    },
+    {
+      "id": "v3-frieren-sein",
+      "name": "Sein",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-sein.webp"
+    },
+    {
+      "id": "v3-frieren-serie",
+      "name": "Serie",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-serie.webp"
+    },
+    {
+      "id": "v3-frieren-ubel",
+      "name": "Ubel",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-ubel.webp"
+    },
+    {
+      "id": "v3-frieren-denken",
+      "name": "Denken",
+      "group": "Frieren",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-frieren-denken.webp"
+    },
+    {
+      "id": "v3-solo-leveling-sung-jinah",
+      "name": "Sung Jinah",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-sung-jinah.webp"
+    },
+    {
+      "id": "v3-solo-leveling-lee-joohee",
+      "name": "Lee Joohee",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-lee-joohee.webp"
+    },
+    {
+      "id": "v3-solo-leveling-go-gunhee",
+      "name": "Go Gunhee",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-go-gunhee.webp"
+    },
+    {
+      "id": "v3-solo-leveling-woo-jinchul",
+      "name": "Woo Jinchul",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-woo-jinchul.webp"
+    },
+    {
+      "id": "v3-solo-leveling-baek-yoonho",
+      "name": "Baek Yoonho",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-baek-yoonho.webp"
+    },
+    {
+      "id": "v3-solo-leveling-choi-jongin",
+      "name": "Choi Jongin",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-choi-jongin.webp"
+    },
+    {
+      "id": "v3-solo-leveling-hwang-dongsoo",
+      "name": "Hwang Dongsoo",
+      "group": "Solo Leveling",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-solo-leveling-hwang-dongsoo.webp"
+    },
+    {
+      "id": "v3-black-clover-yami-sukehiro",
+      "name": "Yami Sukehiro",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-yami-sukehiro.webp"
+    },
+    {
+      "id": "v3-black-clover-mimosa-vermillion",
+      "name": "Mimosa Vermillion",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-mimosa-vermillion.webp"
+    },
+    {
+      "id": "v3-black-clover-luck-voltia",
+      "name": "Luck Voltia",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-luck-voltia.webp"
+    },
+    {
+      "id": "v3-black-clover-magna-swing",
+      "name": "Magna Swing",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-magna-swing.webp"
+    },
+    {
+      "id": "v3-black-clover-charmy-pappitson",
+      "name": "Charmy Pappitson",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-charmy-pappitson.webp"
+    },
+    {
+      "id": "v3-black-clover-vanessa-enoteca",
+      "name": "Vanessa Enoteca",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-vanessa-enoteca.webp"
+    },
+    {
+      "id": "v3-black-clover-finral-roulacase",
+      "name": "Finral Roulacase",
+      "group": "Black Clover",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-black-clover-finral-roulacase.webp"
+    },
+    {
+      "id": "v3-blue-lock-seishiro-nagi",
+      "name": "Seishiro Nagi",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-seishiro-nagi.webp"
+    },
+    {
+      "id": "v3-blue-lock-reo-mikage",
+      "name": "Reo Mikage",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-reo-mikage.webp"
+    },
+    {
+      "id": "v3-blue-lock-hyoma-chigiri",
+      "name": "Hyoma Chigiri",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-hyoma-chigiri.webp"
+    },
+    {
+      "id": "v3-blue-lock-rensuke-kunigami",
+      "name": "Rensuke Kunigami",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-rensuke-kunigami.webp"
+    },
+    {
+      "id": "v3-blue-lock-shoei-barou",
+      "name": "Shoei Barou",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-shoei-barou.webp"
+    },
+    {
+      "id": "v3-blue-lock-sae-itoshi",
+      "name": "Sae Itoshi",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-sae-itoshi.webp"
+    },
+    {
+      "id": "v3-blue-lock-jinpachi-ego",
+      "name": "Jinpachi Ego",
+      "group": "Blue Lock",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-blue-lock-jinpachi-ego.webp"
+    },
+    {
+      "id": "v3-code-geass-kallen-kozuki",
+      "name": "Kallen Kozuki",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-kallen-kozuki.webp"
+    },
+    {
+      "id": "v3-code-geass-nunnally-lamperouge",
+      "name": "Nunnally Lamperouge",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-nunnally-lamperouge.webp"
+    },
+    {
+      "id": "v3-code-geass-shirley-fenette",
+      "name": "Shirley Fenette",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-shirley-fenette.webp"
+    },
+    {
+      "id": "v3-code-geass-milly-ashford",
+      "name": "Milly Ashford",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-milly-ashford.webp"
+    },
+    {
+      "id": "v3-code-geass-rivalz-cardemonde",
+      "name": "Rivalz Cardemonde",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-rivalz-cardemonde.webp"
+    },
+    {
+      "id": "v3-code-geass-jeremiah-gottwald",
+      "name": "Jeremiah Gottwald",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-jeremiah-gottwald.webp"
+    },
+    {
+      "id": "v3-code-geass-cornelia-li-britannia",
+      "name": "Cornelia li Britannia",
+      "group": "Code Geass",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-code-geass-cornelia-li-britannia.webp"
+    },
+    {
+      "id": "v3-dr-stone-taiju-oki",
+      "name": "Taiju Oki",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-taiju-oki.webp"
+    },
+    {
+      "id": "v3-dr-stone-yuzuriha-ogawa",
+      "name": "Yuzuriha Ogawa",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-yuzuriha-ogawa.webp"
+    },
+    {
+      "id": "v3-dr-stone-chrome",
+      "name": "Chrome",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-chrome.webp"
+    },
+    {
+      "id": "v3-dr-stone-suika",
+      "name": "Suika",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-suika.webp"
+    },
+    {
+      "id": "v3-dr-stone-tsukasa-shishio",
+      "name": "Tsukasa Shishio",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-tsukasa-shishio.webp"
+    },
+    {
+      "id": "v3-dr-stone-ryusui-nanami",
+      "name": "Ryusui Nanami",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-ryusui-nanami.webp"
+    },
+    {
+      "id": "v3-dr-stone-kinro",
+      "name": "Kinro",
+      "group": "Dr. Stone",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-dr-stone-kinro.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-teruki-hanazawa",
+      "name": "Teruki Hanazawa",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-teruki-hanazawa.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-dimple",
+      "name": "Dimple",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-dimple.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-tome-kurata",
+      "name": "Tome Kurata",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-tome-kurata.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-tsubomi-takane",
+      "name": "Tsubomi Takane",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-tsubomi-takane.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-musashi-goda",
+      "name": "Musashi Goda",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-musashi-goda.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-sho-suzuki",
+      "name": "Sho Suzuki",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-sho-suzuki.webp"
+    },
+    {
+      "id": "v3-mob-psycho-100-toichiro-suzuki",
+      "name": "Toichiro Suzuki",
+      "group": "Mob Psycho 100",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-mob-psycho-100-toichiro-suzuki.webp"
+    },
+    {
+      "id": "v3-noragami-bishamon",
+      "name": "Bishamon",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-bishamon.webp"
+    },
+    {
+      "id": "v3-noragami-kazuma",
+      "name": "Kazuma",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-kazuma.webp"
+    },
+    {
+      "id": "v3-noragami-kofuku",
+      "name": "Kofuku",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-kofuku.webp"
+    },
+    {
+      "id": "v3-noragami-daikoku",
+      "name": "Daikoku",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-daikoku.webp"
+    },
+    {
+      "id": "v3-noragami-tenjin",
+      "name": "Tenjin",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-tenjin.webp"
+    },
+    {
+      "id": "v3-noragami-nora",
+      "name": "Nora",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-nora.webp"
+    },
+    {
+      "id": "v3-noragami-mayu",
+      "name": "Mayu",
+      "group": "Noragami",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-noragami-mayu.webp"
+    },
+    {
+      "id": "v3-conan-conan-edogawa",
+      "name": "Conan Edogawa",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-conan-edogawa.webp"
+    },
+    {
+      "id": "v3-conan-ran-mouri",
+      "name": "Ran Mouri",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-ran-mouri.webp"
+    },
+    {
+      "id": "v3-conan-kogoro-mouri",
+      "name": "Kogoro Mouri",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-kogoro-mouri.webp"
+    },
+    {
+      "id": "v3-conan-ai-haibara",
+      "name": "Ai Haibara",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-ai-haibara.webp"
+    },
+    {
+      "id": "v3-conan-shinichi-kudo",
+      "name": "Shinichi Kudo",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-shinichi-kudo.webp"
+    },
+    {
+      "id": "v3-conan-kaito-kid",
+      "name": "Kaito Kid",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-kaito-kid.webp"
+    },
+    {
+      "id": "v3-conan-heiji-hattori",
+      "name": "Heiji Hattori",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-heiji-hattori.webp"
+    },
+    {
+      "id": "v3-conan-kazuha-toyama",
+      "name": "Kazuha Toyama",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-kazuha-toyama.webp"
+    },
+    {
+      "id": "v3-conan-sonoko-suzuki",
+      "name": "Sonoko Suzuki",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-sonoko-suzuki.webp"
+    },
+    {
+      "id": "v3-conan-toru-amuro",
+      "name": "Toru Amuro",
+      "group": "Conan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-conan-toru-amuro.webp"
+    },
+    {
+      "id": "v3-deathnote-light-yagami",
+      "name": "Light Yagami",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-light-yagami.webp"
+    },
+    {
+      "id": "v3-deathnote-l-lawliet",
+      "name": "L Lawliet",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-l-lawliet.webp"
+    },
+    {
+      "id": "v3-deathnote-misa-amane",
+      "name": "Misa Amane",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-misa-amane.webp"
+    },
+    {
+      "id": "v3-deathnote-ryuk",
+      "name": "Ryuk",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-ryuk.webp"
+    },
+    {
+      "id": "v3-deathnote-rem",
+      "name": "Rem",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-rem.webp"
+    },
+    {
+      "id": "v3-deathnote-near",
+      "name": "Near",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-near.webp"
+    },
+    {
+      "id": "v3-deathnote-mello",
+      "name": "Mello",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-mello.webp"
+    },
+    {
+      "id": "v3-deathnote-touta-matsuda",
+      "name": "Touta Matsuda",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-touta-matsuda.webp"
+    },
+    {
+      "id": "v3-deathnote-soichiro-yagami",
+      "name": "Soichiro Yagami",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-soichiro-yagami.webp"
+    },
+    {
+      "id": "v3-deathnote-teru-mikami",
+      "name": "Teru Mikami",
+      "group": "DeathNote",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-deathnote-teru-mikami.webp"
+    },
+    {
+      "id": "v3-onepunchman-saitama",
+      "name": "Saitama",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-saitama.webp"
+    },
+    {
+      "id": "v3-onepunchman-genos",
+      "name": "Genos",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-genos.webp"
+    },
+    {
+      "id": "v3-onepunchman-tatsumaki",
+      "name": "Tatsumaki",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-tatsumaki.webp"
+    },
+    {
+      "id": "v3-onepunchman-fubuki",
+      "name": "Fubuki",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-fubuki.webp"
+    },
+    {
+      "id": "v3-onepunchman-bang",
+      "name": "Bang",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-bang.webp"
+    },
+    {
+      "id": "v3-onepunchman-garou",
+      "name": "Garou",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-garou.webp"
+    },
+    {
+      "id": "v3-onepunchman-king",
+      "name": "King",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-king.webp"
+    },
+    {
+      "id": "v3-onepunchman-speed-o-sound-sonic",
+      "name": "Speed-o-Sound Sonic",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-speed-o-sound-sonic.webp"
+    },
+    {
+      "id": "v3-onepunchman-mumen-rider",
+      "name": "Mumen Rider",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-mumen-rider.webp"
+    },
+    {
+      "id": "v3-onepunchman-atomic-samurai",
+      "name": "Atomic Samurai",
+      "group": "OnePunchMan",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-onepunchman-atomic-samurai.webp"
+    },
+    {
+      "id": "v3-sakura-sakura-kinomoto",
+      "name": "Sakura Kinomoto",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-sakura-kinomoto.webp"
+    },
+    {
+      "id": "v3-sakura-syaoran-li",
+      "name": "Syaoran Li",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-syaoran-li.webp"
+    },
+    {
+      "id": "v3-sakura-tomoyo-daidouji",
+      "name": "Tomoyo Daidouji",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-tomoyo-daidouji.webp"
+    },
+    {
+      "id": "v3-sakura-keroberos",
+      "name": "Keroberos",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-keroberos.webp"
+    },
+    {
+      "id": "v3-sakura-yue",
+      "name": "Yue",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-yue.webp"
+    },
+    {
+      "id": "v3-sakura-touya-kinomoto",
+      "name": "Touya Kinomoto",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-touya-kinomoto.webp"
+    },
+    {
+      "id": "v3-sakura-yukito-tsukishiro",
+      "name": "Yukito Tsukishiro",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-yukito-tsukishiro.webp"
+    },
+    {
+      "id": "v3-sakura-meiling-li",
+      "name": "Meiling Li",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-meiling-li.webp"
+    },
+    {
+      "id": "v3-sakura-eriol-hiiragizawa",
+      "name": "Eriol Hiiragizawa",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-eriol-hiiragizawa.webp"
+    },
+    {
+      "id": "v3-sakura-spinel-sun",
+      "name": "Spinel Sun",
+      "group": "Sakura",
+      "url": "https://raw.githubusercontent.com/brandon-300/Anivora-Assets/main/avatars/v3-sakura-spinel-sun.webp"
+    }
+  ]
+}
